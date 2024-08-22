@@ -1,0 +1,45 @@
+body{
+    background-image: url(../photo/fond\ etoilé.jpg);
+    background-size: cover;
+}
+#a{
+    width:1000px ;
+    height:700px ;
+}
+.para{
+    
+    width: 700px;
+    align-items:center;
+    padding: 15px;
+    text-align:left;
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+    color: #ffffff;
+    background: linear-gradient(90deg, #00c6ff, #0072ff, rgb(197, 238, 240));
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    text-shadow: 1px 1px 2px #ffffff90, 0 0 25px rgba(95, 211, 207, 0.469), 0 0 5px rgba(30, 150, 190, 0.56);
+}
+header{
+  font-family: 'Dancing Script', cursive; 
+  font-size: 50px;
+  font-weight: bold;
+  color: #ebd885;
+  position: relative;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  overflow: hidden;
+  background: linear-gradient(45deg, #6c31e318, #22859ec0, #abf0e39a); 
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  text-shadow: 2px 2px 5px rgba(163, 232, 241, 0.7);
+}
+a{
+    font-size: 4Opx;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    text-decoration: overline;
+    background-color: #ebd88573;
+}

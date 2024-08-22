@@ -1,0 +1,41 @@
+@charset "UTF-8";
+table {
+  width: 1300px;
+  height: 500px;
+  background-color: rgba(235, 216, 133, 0.1647058824);
+}
+
+th {
+  font-family: "Dancing Script", cursive;
+  font-size: 200px;
+  font-weight: bold;
+  color: #ebd885;
+  position: relative;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  overflow: hidden;
+  text-shadow: rgba(18, 15, 2, 0.3725490196);
+  background: linear-gradient(45deg, rgba(110, 88, 152, 0.0941176471), rgba(34, 133, 158, 0.331), rgba(131, 226, 209, 0.377));
+}
+
+th {
+  font-family: "Dancing Script", cursive;
+  font-size: 36.5px;
+  font-weight: bold;
+  color: #ebd885;
+  position: relative;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  overflow: hidden;
+  background: linear-gradient(45deg, rgba(110, 88, 152, 0.0941176471), rgba(34, 133, 158, 0.7529411765), rgba(131, 226, 208, 0.8784313725));
+}
+
+body {
+  background: url(../photo/fond\ etoilé.jpg);
+  background-size: cover;
+}
+
+img {
+  width: 1000px;
+  height: 500px;
+}/*# sourceMappingURL=cassdes.css.map */

@@ -1,0 +1,30 @@
+body{
+    background:url(../photo/fond_etoilé2.jpg);
+    background-size: cover;
+}
+table{
+    width: 1000px;
+    height: 200px;
+    background-color: #ebd88515;
+}
+th{
+    font-family: 'Dancing Script', cursive; 
+    font-size: 36.5px;
+    font-weight: bold;
+    color: #ebd885;
+    position: relative;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    overflow: hidden;
+    background: linear-gradient(45deg, #6e589818, #22859ec0, #83e2d0e0); 
+}
+tr{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-size: 20px;
+    font-weight: bold;
+    color: #cebd70;
+    position: relative;
+    overflow: hidden;
+    text-shadow: 1px 1px 2px #021d1d, 0 0 25px #7697ca, 0 0 5px #e2cae8;
+
+}

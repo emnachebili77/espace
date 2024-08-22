@@ -1,0 +1,32 @@
+body {
+  background-color: aqua;
+  background-size: cover;
+}
+
+table {
+  width: 1000px;
+  height: 500px;
+  background-color: #ebd885;
+}
+
+th {
+  font-family: "Dancing Script", cursive;
+  font-size: 50px;
+  font-weight: bold;
+  color: #ebd885;
+  position: relative;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  overflow: hidden;
+  background: linear-gradient(45deg, rgba(110, 88, 152, 0.0941176471), rgba(34, 133, 158, 0.7529411765), rgba(131, 226, 208, 0.8784313725));
+}
+
+tr {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 5px;
+  font-weight: bold;
+  color: #cebd70;
+  position: relative;
+  overflow: hidden;
+  background-attachment: fixed;
+}
